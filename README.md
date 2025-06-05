@@ -89,4 +89,4 @@ Thank you for visiting my portfolio repository. Feel free to explore the code, c
 
 ---
 ## RESULTS:
-![Portfolio Homepage](images/homepage.png)
+![Portfolio Homepage](/pic1.png)
