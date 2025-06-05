@@ -92,5 +92,11 @@ Thank you for visiting my portfolio repository. Feel free to explore the code, c
 Home Page:
 ![Portfolio Homepage](/pic1.png)
 
-About:
-![Portfolio Aboutpage](/pic2.png)
+![Portfolio Homepage](/pic2.png)
+
+About Page:
+![Portfolio Aboutpage](/pic3.png)
+
+Skills:
+![Portfolio Aboutpage](/pic4.png)
+
